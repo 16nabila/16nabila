@@ -1,24 +1,30 @@
-<p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
-</p>
+<div align="center">
+  <img width="200" height="auto" src="https://github.com/Elanza-48/Elanza-48/blob/main/resources/img/materialHacker.png"/>
+  <h1>Hi<img width="30" src="https://github.com/Elanza-48/Elanza-48/blob/main/resources/img/waving.gif">, I'm Nabila Sarkar</h1>
+  <h3>A passionate computer programmer from Bangladesh.</h3>
+</div>
+ 
+ <img align="right" width="auto" height="auto" src="./giphy.gif"/>
 
-<h1 align="center">Hi, I'm Nabila Sarkar<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate Computer Programmer and a student from Bangladesh.</h3>
+<div align="left">
+  <samp>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
+    
+- 🌱 I’m currently learning **To be Extroverted**
 
-- 🌱 I’m currently learning **To be Extroverted**  <img align="right" style="width:auto; height:auto" src="https://github.com/16nabila/16nabila/blob/main/giphy.gif"/>
-- 👯 I’m looking to collaborate on **Programming Realated Tasks**
+- 👯 Looking out to collaborate on <strong>Programming Related Tasks</strong>
 
 - 🤝 I’m looking for help with **C Programming**
 
-- 👨‍💻 All of my projects are available [@16nabila](github.com/16nabila)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/16nabila), [Gitlab](https://gitlab.com/16nabila)
 
-- 💬 Ask me about **Solving Problems and Philosophy 😆**
+- 💬 Ask me about **Current Affairs & Philosophy 😆**
 
-- ⚡ Fun fact **Coding is a passion and not profession.** 
-<br> 
-
----
+- ⚡ Fun fact: **Coding is a passion and not profession.**
+    
+<p>&nbsp;</p>
 
 
 
