@@ -29,7 +29,7 @@
 
 
 <p align="center">
-  <img style="width:26rem; height:auto" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N"/>
+  <img style="width:26rem; height:auto" src="https://github.com/16nabila/16nabila/blob/main/gif.gif"/>
 </p>
 
 <h3 align="center">Languages</h3>
