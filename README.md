@@ -2,19 +2,19 @@
   <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
 </p>
 
-<h1 align="center">Hi, I'm Rajarshi Kundu<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate backend developer and a student from India.</h3>
+<h1 align="center">Hi, I'm Nabila Sarkar<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h3 font-size="20" align="center">A passionate Computer Programmer and a student from Bangladesh.</h3>
 
 
 - 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 👯 I’m looking to collaborate on **Spring Framework**
+- 👯 I’m looking to collaborate on **Programming Realted Tasks**
 
-- 🤝 I’m looking for help with **Backend Design**
+- 🤝 I’m looking for help with **C Programming**
 
-- 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48)
+- 👨‍💻 All of my projects are available [@16nabila](github.com/16nabila)
 
-- 💬 Ask me about **System Designs and Philosophy 😆**
+- 💬 Ask me about **Solving Problems and Philosophy 😆**
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
@@ -273,8 +273,8 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
+[![](https://github-readme-stats.vercel.app/api?username=16nabila&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/16nabila)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=16nabila&theme=material-palenight)](https://github.com/16nabila)
 </div>
 
 ----
@@ -285,6 +285,6 @@
 </p>
 
 ------
-Credit: [Elanza-48](https://github.com/Elanza-48)
+Credit: [Nabila Sarkar](https://github.com/16nabila)
 
 Last Edited on: 09/09/2021
