@@ -6,8 +6,7 @@
 <h3 font-size="20" align="center">A passionate Computer Programmer and a student from Bangladesh.</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-
+- 🌱 I’m currently learning **To be Extroverted**  <img align="right" style="width:auto; height:auto" src="https://github.com/16nabila/16nabila/blob/main/giphy.gif"/>
 - 👯 I’m looking to collaborate on **Programming Realated Tasks**
 
 - 🤝 I’m looking for help with **C Programming**
@@ -16,16 +15,12 @@
 
 - 💬 Ask me about **Solving Problems and Philosophy 😆**
 
-- ⚡ Fun fact **Coding is a passion and not profession.**
-
+- ⚡ Fun fact **Coding is a passion and not profession.** 
+<br> 
 
 ---
 
 
-
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
-</p>
 
 <p align="center">
   <img style="width:26rem; height:auto" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N"/>
