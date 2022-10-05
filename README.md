@@ -25,13 +25,7 @@
 - ⚡ Fun fact: **Coding is a passion and not profession.**
     
 <p>&nbsp;</p>
-
-
-
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://github.com/16nabila/16nabila/blob/main/gif.gif"/>
-</p>
-
+    
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -68,6 +62,9 @@
     </a>
     <a href="https://twitter.com/nabilasarkar" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
+    </a>
+    <a href="https://facebook.com/nabila.aforuj" target="_blank">
+      <img src="https://img.shields.io/badge/facebook-000000.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="example"/>
     </a>
     <a href="https://dribbble.com/nabilasarkar" target="_blank">
       <img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=black" alt="example"/>
